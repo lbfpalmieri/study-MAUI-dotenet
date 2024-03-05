@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-cases\\myFirstAppWithMAUI\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F23924B1-EB8B-4688-94D9-29E4687C2D00}|MauiApp1\\MauiApp1.csproj|d:\\.net-cases\\myfirstappwithmaui\\mauiapp1\\mauiapp1\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23924B1-EB8B-4688-94D9-29E4687C2D00}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23924B1-EB8B-4688-94D9-29E4687C2D00}|MauiApp1\\MauiApp1.csproj|d:\\.net-cases\\myfirstappwithmaui\\mauiapp1\\mauiapp1\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F23924B1-EB8B-4688-94D9-29E4687C2D00}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "D:\\.net-cases\\myFirstAppWithMAUI\\MauiApp1\\MauiApp1\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\DetailPage.xaml",
+              "ToolTip": "D:\\.net-cases\\myFirstAppWithMAUI\\MauiApp1\\MauiApp1\\DetailPage.xaml",
+              "RelativeToolTip": "MauiApp1\\DetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T21:41:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "D:\\.net-cases\\myFirstAppWithMAUI\\MauiApp1\\MauiApp1\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\DetailPage.xaml.cs",
+              "ToolTip": "D:\\.net-cases\\myFirstAppWithMAUI\\MauiApp1\\MauiApp1\\DetailPage.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\DetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T21:38:54.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
